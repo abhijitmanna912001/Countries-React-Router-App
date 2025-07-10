@@ -36,16 +36,12 @@ Whether you’re curious about a particular country or exploring global regions,
 
 ---
 
-## 🚀 **Development & Build**
+## 🚀 **Run Locally**
 
 Install dependencies:
 
 ```bash
 npm install
-Run locally:
 
+Start development server:
 npm run dev
-Build for production:
-
-npm run build
-```
